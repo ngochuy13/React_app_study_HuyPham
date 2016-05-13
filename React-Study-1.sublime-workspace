@@ -1,0 +1,1220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bowe",
+				"bower_components	(gulpfile.js)"
+			],
+			[
+				"ter",
+				"TermsAndConditions"
+			],
+			[
+				"Te",
+				"TermsAndConditions	(OnboardingPageComp.jsx)"
+			],
+			[
+				"AppS",
+				"AppRouter::_checkLogin:isLoggedIn	(AppRouter.js)"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"db",
+				"d-b	display: block;"
+			],
+			[
+				"fac",
+				"fancybox"
+			],
+			[
+				"sc",
+				"scrollDown"
+			],
+			[
+				"dis",
+				"disableScroll"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"type",
+				"type-3	(index-after.html)"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"sel",
+				"seller_info"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"cancel_",
+				"cancel_url"
+			],
+			[
+				"pa",
+				"payment_id"
+			],
+			[
+				"ng",
+				"nganluong"
+			],
+			[
+				"pru",
+				"purchase_data"
+			],
+			[
+				"f",
+				"failed"
+			],
+			[
+				"edd",
+				"edd_options"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"print",
+				"print_r	(nau-webmoney-paygate.php)"
+			],
+			[
+				"pur",
+				"purchase_data"
+			],
+			[
+				"Auto",
+				"Autoloader	(Autoload.php)"
+			],
+			[
+				"WM",
+				"WMService	(WMService.php)"
+			],
+			[
+				"error",
+				"error_code"
+			],
+			[
+				"fase",
+				"false"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"tmp",
+				"tmpProvinceDetail"
+			],
+			[
+				"lis",
+				"listProvince"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"Lis",
+				"ListProvince	(ListProvince.js)"
+			],
+			[
+				"resu",
+				"results1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lan",
+				"_lang_vi"
+			],
+			[
+				"recr",
+				"recruitPost"
+			],
+			[
+				"rec",
+				"recruit	(aboutus.hbs)"
+			],
+			[
+				"abou",
+				"about__banner"
+			],
+			[
+				"lo",
+				"localize"
+			],
+			[
+				"_lan",
+				"_lang_en"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"m",
+				"members"
+			],
+			[
+				"About",
+				"AboutTab	(AboutTab.js)"
+			],
+			[
+				"link",
+				"linkProject|20	(SliderHome.js)"
+			],
+			[
+				"home",
+				"home_short"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"lin",
+				"linkProject"
+			],
+			[
+				"get_the",
+				"get_the_title	(footer.php)"
+			],
+			[
+				"setTi",
+				"setTimeout()	Frame"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"add",
+				"addClass()	jQuery"
+			],
+			[
+				"tm",
+				"tmpVal"
+			],
+			[
+				"style",
+				"style=\"text"
+			],
+			[
+				"ca",
+				"class	Attr"
+			],
+			[
+				"vis",
+				"visible-xs"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1397,
+				"line_ending": "Unix",
+				"name": "server.js"
+			}
+		},
+		{
+			"file": "views/index.html",
+			"settings":
+			{
+				"buffer_size": 562,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/App.js",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes.js",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main.js",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/Home.js",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/alt.js",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 4203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sset jaca",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"woe",
+				"Word Wrap: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"setsass",
+				"Set Syntax: Sass"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/NauStudio/Study/character-voting-app-using-react-nodejs-mongodb-and-socketio"
+	],
+	"file_history":
+	[
+		"/C/Users/huypham/Downloads/cmder/README.md",
+		"/D/NauStudio/Study/character-voting-app-using-react-nodejs-mongodb-and-socketio/React-Study-1.sublime-project",
+		"/D/NauStudio/Study/character-voting-app-using-react-nodejs-mongodb-and-socketio/app/stylesheets/main.less",
+		"/C/Users/huypham/Downloads/sublime-react-master/sublime-react-master/README.md",
+		"/C/Users/huypham/Desktop/content_MerchantTNC.html",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/pages/onboarding/StorePreview.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/pages/LandingPage.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/pages/OrderPageComp.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/pages/OrderPage.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/components/Header.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/models/Session.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/AppRouter.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/pages/LoginPage.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/pages/LoginPageComp.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/views/pages/PageBase.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/js/app/models/Profile.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/data/config.json",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/data/config-SIT.json",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/src/data/config-DEV.json",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-merchant/consumer/src/css/foundation/components/_buttons.scss",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/views/pages/banking/BankingDetailsSalary.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/views/pages/apply/ApplyInsurance.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/views/pages/FAQPage.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/views/pages/FAQPageComp.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/README.md",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/AppView.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/AppRouter.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/css/foundation/components/_buttons.scss",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/views/pages/CartPage.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/views/pages/PageBase.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/views/pages/CardsPageComp.jsx",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/AppModel.js",
+		"/D/NauStudio/Project/NTUC/ntuc-plus-consumer/src/js/app/models/GetResponses.js",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/lucas-lyne-wedding-website/public/js/main.js",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/lucas-lyne-wedding-website/public/js/google-sheet.js",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/lucas-lyne-wedding-website/public/js/vendor/google-sheet.js",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/lucas-lyne-wedding-website/.eslintignore",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/lucas-lyne-wedding-website/gulpfile.js",
+		"/C/Users/huypham/Downloads/EdwardianScriptITC/styles.css",
+		"/C/Users/huypham/Downloads/Andes (1)/styles.css",
+		"/C/Users/huypham/Downloads/ArialMT/styles.css",
+		"/C/Users/huypham/Downloads/TimesNewRomanPSMT/styles.css",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/lucas-lyne-wedding-website/public/index-after.html",
+		"/C/Users/huypham/Downloads/ParkLaneNF/styles.css",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/lucas-lyne-wedding-website/public/index.html",
+		"/C/Sublime Text Build 3103 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Sublime Text Build 3103 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/demo_google-spreadsheets/index.html",
+		"/D/NauStudio/Project/Lucas Lyne Wedding/demo_google-spreadsheets/google-sheet.js",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/edd-vietnamese-banking/constants2.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/payment/baokim.config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/nau-baokim-paygate.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/payment/baokim_payment.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/payment/baokim_payment_pro.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/payment/baokim.config.test.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/edd-vietnamese-banking/edd-vietnamese-banking.php",
+		"/C/Users/huypham/Downloads/BaoKim_Payment_Pro/bkim/baokim_payment.php",
+		"/C/Users/huypham/Downloads/BaoKim_Payment_Pro/bkim/baokim_payment_pro.php",
+		"/C/Users/huypham/Downloads/BaoKim_Payment_Pro/bkim/request.php",
+		"/D/xampp/htdocs/Test/bkim/index.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/payment/call_restful.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/baokim.config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-baokim-paygate/baokim.config.test.php",
+		"/C/Users/huypham/Downloads/BaoKim_Payment_Pro/bkim/constants.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-123pay-paygate/payment/123pay.class.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-123pay-paygate/nau-123pay-paygate.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-123pay-paygate/payment/123pay.checkout_url.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-123pay-paygate/123pay.config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-nganluong-paygate/nau-nganluong-paygate.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-123pay-paygate/payment/NetHelper.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/nau-webmoney-paygate.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/easy-digital-downloads/includes/gateways/paypal.php",
+		"/D/xampp/htdocs/Test/zaypay/includes/config.php",
+		"/C/Users/huypham/Downloads/checkoutv3/checkoutv3.PHP/checkoutv3.PHP/checkoutv3.PHP/payment_success.php",
+		"/C/Users/huypham/Downloads/checkoutv3/checkoutv3.PHP/checkoutv3.PHP/checkoutv3.PHP/index.php",
+		"/C/Users/huypham/Downloads/checkout 2.5.PHP/checkout 2.5.PHP/payment.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/WMMerchant/WMService.php",
+		"/D/xampp/htdocs/Test/wmvn-merchant-php/WMMerchant/WMService.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/easy-digital-downloads/easy-digital-downloads.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/edd-manual-purchases/edd-manual-purchases.php",
+		"/D/xampp/htdocs/Test/wmvn-merchant-php/sample/controllers/ResultController.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-nganluong-paygate/constants.php",
+		"/D/xampp/htdocs/Test/wmvn-merchant-php/sample/controllers/ProductController.php",
+		"/D/xampp/htdocs/Test/wmvn-merchant-php/sample/inc/Controller.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/configWM.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/Autoload.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/WMMerchant/models/CreateOrderRequest.php",
+		"/D/xampp/htdocs/Test/wmvn-merchant-php/Autoload.php",
+		"/D/xampp/htdocs/Test/wmvn-merchant-php/sample/config.php",
+		"/D/xampp/htdocs/Test/webmoney_demo/sample/config.php",
+		"/D/xampp/htdocs/Test/webmoney_demo/WMMerchant/WMService.php",
+		"/D/xampp/htdocs/Test/webmoney_demo/sample/controllers/ViewOrderController.php",
+		"/D/xampp/htdocs/Test/webmoney_demo/WMMerchant/base/Curl.php",
+		"/D/xampp/htdocs/Test/webmoney_demo/sample/view-order.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/inc/Controller.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-webmoney-paygate/controllers/CreateOrderController.php",
+		"/D/xampp/htdocs/Test/webmoney_demo/sample/controllers/CreateOrderController.php",
+		"/C/Users/huypham/AppData/Local/Temp/fz3temp-1/nau-nganluong-paygate.php",
+		"/C/Users/huypham/AppData/Local/Temp/fz3temp-1/config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-nganluong-paygate/config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/nau-nganluong-paygate/include/NL_Checkoutv3.php",
+		"/C/Users/huypham/Downloads/checkoutv3/checkoutv3.PHP/checkoutv3.PHP/checkoutv3.PHP/config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.js",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/easy-digital-downloads/includes/process-purchase.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin-child/functions.php",
+		"/C/Users/huypham/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/easy-digital-downloads/includes/ajax-functions.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/easy-digital-downloads/includes/checkout/template.php",
+		"/C/Sublime Text Build 3103 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-config.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin-child/custom.css",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/functions.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/footer.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/campaign.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/templates/edd/shortcode-content-excerpt.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/inc/class-theme-franklin.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/inc/crowdfunding/campaign-widget-filter.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/inc/crowdfunding/crowdfunding.class.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/edd-vietnamese-banking/call_restful.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/plugins/edd-vietnamese-banking/baokim_payment_pro.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/media/js/franklin-crowdfunding.js",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/campaign-blurb.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/campaign-featured.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/page-campaigns.php",
+		"/D/xampp/htdocs/Nau/www.betado.com/public_html/wp-content/themes/franklin/campaign-modals.php",
+		"/D/xampp/mysql/bin/db/betado.sql",
+		"/D/NauStudio/Project/joinersvn-website/joinersvn-website/keystone.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\NauStudio\\Project\\NTUC\\ntuc-plus-merchant\\src\\js\\app\\views",
+			"D:\\NauStudio\\Project\\NTUC\\ntuc-plus-merchant\\src\\js\\app",
+			"D:\\NauStudio\\Project\\NTUC\\ntuc-plus-merchant\\src",
+			"D:\\NauStudio\\Project\\NTUC\\ntuc-plus-merchant\\src\\js\\app",
+			"D:\\NauStudio\\Project\\NTUC\\ntuc-plus-consumer\\src\\js\\app\\views\\pages",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\nau-baokim-paygate\\payment",
+			"D:\\xampp\\htdocs\\Test\\wmvn-merchant-php\\WMMerchant",
+			"D:\\xampp\\htdocs\\Test\\wmvn-merchant-php",
+			"D:\\xampp\\htdocs\\Test\\webmoney_demo\\WMMerchant",
+			"D:\\xampp\\htdocs\\Test\\webmoney_demo",
+			"D:\\xampp\\htdocs\\Test\\webmoney_demo\\sample",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\easy-digital-downloads",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes\\franklin",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\easy-digital-downloads",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\edd-manual-purchases",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\edd-vietnamese-banking",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\edd-manual-purchases",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\edd-vietnamese-banking",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\edd-vietnamese-banking",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes\\franklin",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\plugins\\edd-vietnamese-banking",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes\\franklin",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes\\franklin\\media\\js",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes\\franklin",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes\\franklin-child",
+			"D:\\xampp\\htdocs\\Nau\\www.betado.com\\public_html\\wp-content\\themes\\franklin",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\node_modules\\keystone\\admin",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\node_modules\\keystone",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\public\\css",
+			"D:\\NauStudio\\Project\\bratus__pnb\\bratus__pnb\\models",
+			"D:\\NauStudio\\Project\\bratus__pnb\\bratus__pnb",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners\\nau-js",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners\\js",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\public\\css\\components",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\public\\css",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\public\\css\\components",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\public\\css\\site",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\public\\css\\tablet",
+			"D:\\NauStudio\\Project\\joinersvn-website\\joinersvn-website\\public\\css",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners\\js",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners\\nau-js",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners\\js",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners\\**\\*.js",
+			"D:\\xampp\\htdocs\\Nau\\joinersvn-php\\wp-content\\themes\\joiners",
+			"D:\\OD\\Project\\Far East\\far-east\\_html\\app",
+			"D:\\xampp\\htdocs\\OT\\candientu\\wp-content\\themes\\store",
+			"D:\\xampp\\htdocs\\OT\\candientu\\wp-content\\themes\\virtue\\templates",
+			"D:\\OD\\Project\\UOB Card\\uobcard"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{",
+			"agreeTerms",
+			"API_TERMS",
+			"Profile",
+			"ownerId",
+			"status",
+			"AppModel.profile().agreed()",
+			"true",
+			"agreeToTerms",
+			"globalData",
+			"navigate",
+			"API_PROFILE",
+			"merchant-profile",
+			"showModal",
+			"faqs",
+			"searchFAQ",
+			"AppRouter",
+			"GetResponses",
+			"$bg-lightness",
+			"line-col",
+			"2",
+			".block-title.type-2",
+			"line-info left\"",
+			"\"",
+			"50px",
+			"\n	",
+			"class=\"fancybox\"",
+			"vaendor",
+			"<img src",
+			"200",
+			"100",
+			"slow",
+			"$('.section-when-where').offset().top",
+			"animation",
+			"\"",
+			"section-when-where",
+			"rem;",
+			"imgimg",
+			"/img",
+			"block-line",
+			"69px",
+			"<div class=\"line-info",
+			"\"block-desc\"",
+			"block-desc",
+			" line-small",
+			"border-image-source",
+			"Andes",
+			"Andes.",
+			"ArialMT.",
+			"TimesNewRomanPSMT.",
+			"font-family:",
+			"font-family",
+			"EdwardianScriptITC.",
+			"ParkLaneNF.",
+			"1",
+			"img/",
+			"constants2",
+			"webmoney",
+			"createRequestUrl",
+			"p",
+			"headers already sent",
+			"CallRestful",
+			"../",
+			"123pay",
+			"123Pay",
+			"123pay",
+			"123Pay",
+			"123pay",
+			"123pay_gateway",
+			", WMService::SUCCESS_STATUS",
+			"mikey",
+			"] = ",
+			"';",
+			"['",
+			"payment_config",
+			"webmoney",
+			"applyResultWebMoney",
+			"action_webmoney",
+			"webmoney_",
+			"payment_webmoney",
+			"webmoney_gateway",
+			"= '';",
+			"web",
+			"_",
+			"edd_verify_nganluong_ipn",
+			"applyResultWebMoney",
+			"webmoney",
+			"meta",
+			"createOrder",
+			"'?",
+			"edd-listener",
+			"applyResult",
+			"'&",
+			"globalConfig()",
+			"new NL_CheckOutV3(M",
+			"new NL_CheckOutV3($MERCHANT_ID",
+			"// $nlcheckout = new NL_CheckOutV3($MERCHANT_ID,$MERCHANT_PASS,$RECEIVER,$URL_API);",
+			",URL_API",
+			"NL_CheckOutV3($MERCHANT_ID,",
+			"');",
+			"NL_CheckOutV3(MERCHANT_ID,MERCHANT_PASS,RECEIVER,URL_API)",
+			"define('",
+			"webmoney_gateway",
+			"edd_gateway_webmoney_gateway",
+			"nganluong",
+			"''",
+			"Exception",
+			"getCurl",
+			"viewOrder",
+			"apimerchant.webmoney.prj",
+			"webmoney.",
+			"apimerchant.webmoney",
+			"apimerchant.webmoney.pr",
+			"apimerchant.webmoney.prj",
+			"nganluong_ipn",
+			"edd_process_nganluong_ipn",
+			"nganluong_gateway",
+			"pw_edd_process_payment_nganluong",
+			"nganluong_gateway",
+			"NL_CheckOutV3",
+			"define('",
+			"NL_CheckOutV3",
+			"URL_API",
+			"CheckoutCall",
+			"'+",
+			"$key",
+			"1'",
+			"Please enter your phone"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"f96700",
+			"fb2c47",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1501,
+								1501
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Seti_UI/icons/Langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1087.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "server.js",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/components/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								177
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 77.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/components/Home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/alt.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4169,
+								4175
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Seti_UI/icons/Langs/Gulpfile JS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2178.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Seti_UI/icons/Langs/Bower JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "React-Study-1.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"foote",
+				"app\\styles\\footer.sass"
+			],
+			[
+				"main",
+				"app\\scripts\\main.js"
+			],
+			[
+				"homja",
+				"app\\jade\\home.jade"
+			],
+			[
+				"huy",
+				"app\\styles\\huy.sass"
+			],
+			[
+				"mainjs",
+				"app\\scripts\\main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nu",
+				"D:\\NauStudio\\Project\\NTUC\\ntuc-plus-merchant\\NTUC-Plus-Merchant.sublime-project"
+			],
+			[
+				"",
+				"D:\\NauStudio\\Sublime\\config.sublime-project"
+			],
+			[
+				"co",
+				"D:\\NauStudio\\Sublime\\config.sublime-project"
+			],
+			[
+				"con",
+				"D:\\NauStudio\\Sublime\\config.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

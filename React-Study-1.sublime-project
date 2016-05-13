@@ -1,0 +1,27 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				".grunt",
+				".idea",
+				".sass-cache",
+				".tmp",
+				"~build-*",
+				"node_modules",
+				"bower_components"
+			],
+			"path": "."
+		},
+		{
+			"path": "D:\\NauStudio\\Study\\newedenfaces-react-master"
+		}
+	],
+	"settings":
+	{
+		"FuzzyFilePath":
+		{
+		}
+	}
+}
